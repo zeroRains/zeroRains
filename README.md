@@ -2,7 +2,7 @@
 
 这里是zeroRains的github。  
 
-zeroRain是一名真诚的珂学家。
+zeroRain是一名珂学家。
 
 ![](./GONGSE.jpg)
 ---
