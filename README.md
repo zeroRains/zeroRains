@@ -1,6 +1,7 @@
 # 早上好☕  
 
-这里是zeroRains的github。  
+这里是zeroRains的github。 
+zeroRains的博客在这里[blog.zerorains.top](http://blog.zerorains.top/)
 
 zeroRain是一名珂学家。
 
