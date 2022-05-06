@@ -2,7 +2,7 @@
 
 这里是zeroRains的github。 
 
-zeroRains的博客在这里[blog.zerorains.top(国内)](https://blog.zerorains.top/) [space.zerorains.top(国外)](space.zerorains.top)
+zeroRains的博客在这里[blog.zerorains.top(国内)](https://blog.zerorains.top/) [space.zerorains.top(国外)](https://space.zerorains.top)
 
 zeroRain是一名珂学家。
 
