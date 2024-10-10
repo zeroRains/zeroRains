@@ -4,6 +4,8 @@
 
 zeroRains的博客在这里[blog.zerorains.top](https://blog.zerorains.top/)
 
+zeroRains的最近动态在这里[pr.zerorains.top](https://pr.zerorains.top/)
+
 zeroRain是一名珂学家。
 
 ![](./GONGSE.jpg)
