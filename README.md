@@ -10,7 +10,7 @@ zeroRain是一名珂学家。
 
 ![](./GONGSE.jpg)
 ---
-* zeroRains是一个很菜的大学生
+* zeroRains是一个很菜的人
 * zeroRains正在学习深度\*\*\*\*从早晨🌇到下一个早晨🌆。  
 * zeroRains主要搞并行计算，推理查询方面的东西,但是实在是比较菜。
 * zeroRains最近想了解一下推理优化的东西，可以请佬们给点建议。
